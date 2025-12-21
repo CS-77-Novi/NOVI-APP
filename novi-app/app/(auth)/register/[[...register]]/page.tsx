@@ -19,7 +19,7 @@ const RegisterPage = () => {
                      
             </section>
 
-            <div className="mt-3">
+            <div className="mt-4">
                 <SignUp appearance={
                     {
                         baseTheme: neobrutalism
